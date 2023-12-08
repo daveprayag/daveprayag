@@ -14,7 +14,7 @@
 
 <h2 align="left">About me 🙋🏻‍♂️</h2>
 
-<br clear="both">
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 <p align="left">🔭 I'm in my final year of master's, looking for jobs.<br>💻 I’m currently learning React Native and diving into backend technologies.<br>🎯 2024 Goals: Work on going deep into the realms of Full Stack Development.<br>💬 Ask me about Javascript, React, Next.js<br>⚡ Fun fact: I love photography and I am an established photographer.<br>✨ You can visit <a href="https://www.prayagdave.com" target="_blank">my website</a> for some frontend sauce.</p>
 
